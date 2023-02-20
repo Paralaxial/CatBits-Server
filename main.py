@@ -13,10 +13,12 @@ t = Thread(target=start)
 t.start()
 
 
-@app.route('/')
+@app.route('/', methods=["GET"])
 def home():
   respond = {"status": "Online"}
-  return jsonify(respond)
+  resp = jsonify(respond)
+  resp.headers['Content-Type'] = "text/plain"
+  return resp
 
 
 app.run(host='0.0.0.0', port=8080)

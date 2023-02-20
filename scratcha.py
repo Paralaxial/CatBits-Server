@@ -39,7 +39,8 @@ def ban_check(username):
 
 
 def follower_count(self):
-  text = requests.get(    f"https://xnw7rh.deta.dev/get/https://scratch.mit.edu/users/{self}/followers/"
+  text = requests.get(
+    f"https://xnw7rh.deta.dev/get/https://scratch.mit.edu/users/{self}/followers/"
   ).text
   text = text.split("Followers (")[1]
   text = text.split(")")[0]
@@ -74,7 +75,7 @@ def profile(user):
   if user in keys:
     count = follower_count(user)
     userbits = db[user]
-    c = []
+    c = ["SEARCHING: " + user]
     c.append(f"Username: {user}")
     c.append(f"CatBit amount: {userbits}")
     c.append(f"Is admin: {user in admin}")
@@ -82,7 +83,11 @@ def profile(user):
     c.append(f"Follower Count (Scratch): {count}")
     return c
   else:
-    return "The profile you searched has not made an account... If you think this is an error, contact @Knightbot63"
+    return [
+      "SEARCHING: " + user,
+      "The profile you searched has not made an account.",
+      "NOTE: search is case sensitive!"
+    ]
 
 
 # Sample request

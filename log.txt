@@ -555,3 +555,31 @@ Balance requested for 'CandleContent'. Returning 250. 22:50:19
 Balance requested for 'CandleContent'. Returning 250. 22:50:20
 Getting Profile: User: griffpatch | From: CandleContent
 Getting Profile: User: Knightbot63 | From: CandleContent
+
+Request handler is running
+
+Request handler is running
+New user. Creating account...
+Balance requested for 'ArrowCoding'. Returning 250. 23:33:29
+Balance requested for 'ArrowCoding'. Returning 250. 23:33:29
+Getting Profile: User: taffy8321 | From: ArrowCoding
+Balance requested for 'EIRFIE'. Returning 2860. 23:33:55
+Balance requested for 'EIRFIE'. Returning 2860. 23:33:56
+Getting Profile: User: griffpatch | From: ArrowCoding
+Getting Profile: User: Khightbot63 | From: EIRFIE
+Getting Profile: User: arrowcoding | From: ArrowCoding
+Getting Profile: User: knightbot63 | From: ArrowCoding
+
+Request handler is running
+
+Request handler is running
+
+Request handler is running
+
+Request handler is running
+Balance requested for 'ArrowCoding'. Returning 250. 23:42:38
+Balance requested for 'ArrowCoding'. Returning 250. 23:42:39
+
+Request handler is running
+
+Request handler is running
