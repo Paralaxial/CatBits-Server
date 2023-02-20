@@ -1,0 +1,557 @@
+Request handler is running
+Balance requested for 'coconut1man'. Returning 250. 14:15:57
+Balance requested for 'xxxxxxx-70'. Returning 6000. 15:01:18
+Balance requested for 'xxxxxxx-70'. Returning 6000. 15:01:20
+Balance requested for 'Jigglypuffcupidcute'. Returning 250. 15:16:34
+Balance requested for 'Jigglypuffcupidcute'. Returning 250. 15:16:37
+Balance requested for 'Jigglypuffcupidcute'. Returning 250. 15:16:47
+Balance requested for 'Jigglypuffcupidcute'. Returning 250. 15:16:50
+New user. Creating account...
+Balance requested for 'Tracker_52'. Returning 250. 15:41:05
+Balance requested for 'Tracker_52'. Returning 250. 15:41:08
+Balance requested for 'xxxxxxx-70'. Returning 6000. 16:12:29
+Balance requested for 'xxxxxxx-70'. Returning 6000. 16:12:31
+Getting Profile: User: spacecatstudios | From: xxxxxxx-70
+Balance requested for 'BreadcatGames'. Returning 450. 16:17:43
+Balance requested for 'BreadcatGames'. Returning 450. 16:17:46
+New user. Creating account...
+Balance requested for 'ScratchyNinja_'. Returning 250. 16:41:04
+Balance requested for 'ScratchyNinja_'. Returning 250. 16:41:06
+New user. Creating account...
+Balance requested for 'bunnyCoder16'. Returning 250. 18:17:27
+Balance requested for 'bunnyCoder16'. Returning 250. 18:17:30
+Getting Profile: User: Knightbot63 | From: bunnyCoder16
+Balance requested for 'bunnyCoder16'. Returning 250. 18:32:34
+
+Request handler is running
+
+Request handler is running
+Balance requested for 'ScratchCo_'. Returning 0. 20:50:50
+Balance requested for 'ScratchCo_'. Returning 0. 20:50:53
+Balance requested for 'demonhunter247'. Returning 250. 21:36:33
+Balance requested for 'demonhunter247'. Returning 250. 21:36:34
+Balance requested for 'demonhunter247'. Returning 250. 21:38:23
+Balance requested for 'demonhunter247'. Returning 250. 21:38:24
+New user. Creating account...
+Balance requested for 'BIGGERSHOT127'. Returning 250. 21:45:58
+Balance requested for 'BIGGERSHOT127'. Returning 250. 21:46:00
+Getting Profile: User:  Knightbot63 | From: BIGGERSHOT127
+Balance requested for 'BIGGERSHOT127'. Returning 250. 21:46:51
+Balance requested for 'BIGGERSHOT127'. Returning 250. 21:46:52
+Getting Profile: User: BIGGERSHOT!27 | From: BIGGERSHOT127
+SEND Requester: BIGGERSHOT127 | Recipent:  SpaceCatStudios | Amount: 10
+Balance requested for 'BIGGERSHOT127'. Returning 250. 21:47:56
+Balance requested for 'BIGGERSHOT127'. Returning 250. 21:47:57
+New user. Creating account...
+Balance requested for 'What_do_we_do_now'. Returning 250. 21:54:16
+Balance requested for 'What_do_we_do_now'. Returning 250. 21:54:18
+Getting Profile: User: Knightbot63 | From: What_do_we_do_now
+SEND Requester: What_do_we_do_now | Recipent: Knightbot63 | Amount: 5
+Balance requested for 'What_do_we_do_now'. Returning 245. 21:55:01
+Getting Profile: User: Knightbot63 | From: What_do_we_do_now
+Getting Profile: User: Knightbot63 | From: What_do_we_do_now
+Getting Profile: User: What_do_we_do_now | From: What_do_we_do_now
+New user. Creating account...
+Balance requested for 'thmnko'. Returning 250. 21:57:08
+Balance requested for 'thmnko'. Returning 250. 21:57:09
+Getting Profile: User: Knightbot63 | From: thmnko
+SEND Requester: What_do_we_do_now | Recipent: WDWDN_Cars | Amount: 245
+Getting Profile: User: WDWDN_Cars | From: What_do_we_do_now
+Balance requested for 'What_do_we_do_now'. Returning 245. 21:58:34
+Balance requested for 'What_do_we_do_now'. Returning 245. 21:58:36
+Getting Profile: User: tmnhko | From: What_do_we_do_now
+Getting Profile: User: thmnko | From: What_do_we_do_now
+SEND Requester: What_do_we_do_now | Recipent: thmnko | Amount: 5
+Balance requested for 'What_do_we_do_now'. Returning 240. 21:59:27
+Balance requested for 'mastercoder5555'. Returning 250. 22:16:10
+Balance requested for 'mastercoder5555'. Returning 250. 22:16:12
+Getting Profile: User: Knightbot63 | From: mastercoder5555
+Balance requested for 'mastercoder5555'. Returning 250. 22:16:56
+Balance requested for 'mastercoder5555'. Returning 250. 22:16:58
+Balance requested for 'scientisthh'. Returning 250. 22:58:16
+Balance requested for 'scientisthh'. Returning 250. 22:58:18
+SEND Requester: scientisthh | Recipent: 120 | Amount: 120
+Balance requested for 'Popsesd'. Returning 400. 23:07:07
+Balance requested for 'Popsesd'. Returning 400. 23:07:09
+Getting Profile: User: Popsesd | From: Popsesd
+Balance requested for 'Popsesd'. Returning 400. 23:08:50
+Balance requested for 'Popsesd'. Returning 400. 23:08:51
+
+Request handler is running
+
+Request handler is running
+Balance requested for 'Popsesd'. Returning 400. 00:40:01
+Balance requested for 'Popsesd'. Returning 400. 00:40:02
+Balance requested for 'UI-coder'. Returning 260. 00:41:36
+Balance requested for 'UI-coder'. Returning 260. 00:41:37
+New user. Creating account...
+Balance requested for 'Redstone_Cloud'. Returning 250. 00:47:33
+Balance requested for 'Redstone_Cloud'. Returning 250. 00:47:34
+Getting Profile: User: zachary281 | From: Redstone_Cloud
+Balance requested for 'Redstone_Cloud'. Returning 250. 00:47:58
+Balance requested for 'Redstone_Cloud'. Returning 250. 00:47:59
+Getting Profile: User: Knightbot63 | From: Redstone_Cloud
+Balance requested for 'BabyRumman'. Returning 1500. 01:01:30
+Balance requested for 'BabyRumman'. Returning 1500. 01:01:31
+Balance requested for 'BabyRumman'. Returning 1500. 01:02:12
+Balance requested for 'BabyRumman'. Returning 1500. 01:02:13
+Getting Profile: User: Knightbot63 | From: BabyRumman
+Balance requested for 'BabyRumman'. Returning 1500. 01:02:34
+Balance requested for 'BabyRumman'. Returning 1500. 01:02:34
+SEND Requester: BabyRumman | Recipent: Knightbot63 | Amount: 
+Balance requested for 'BabyRumman'. Returning 1500. 01:03:07
+New user. Creating account...
+Balance requested for 'theREALOGBotTlE'. Returning 250. 02:59:26
+Balance requested for 'theREALOGBotTlE'. Returning 250. 02:59:27
+New user. Creating account...
+Balance requested for 'Bestered-'. Returning 250. 03:21:46
+Balance requested for 'Bestered-'. Returning 250. 03:21:46
+Balance requested for 'Bestered-'. Returning 250. 03:25:07
+Balance requested for 'Bestered-'. Returning 250. 03:25:23
+Balance requested for 'Bestered-'. Returning 250. 03:25:24
+Balance requested for 'Bestered-'. Returning 250. 03:25:35
+Balance requested for 'Bestered-'. Returning 250. 03:25:36
+New user. Creating account...
+Balance requested for 'Squiggly-'. Returning 250. 05:57:14
+Balance requested for 'Squiggly-'. Returning 250. 05:57:15
+Getting Profile: User: Knightbot63 | From: Squiggly-
+
+Request handler is running
+Balance requested for 'EngineerRunner'. Returning 250. 10:37:13
+Balance requested for 'EngineerRunner'. Returning 250. 10:37:14
+Balance requested for 'xxxxxxx-70'. Returning 6000. 13:16:33
+Balance requested for 'xxxxxxx-70'. Returning 6000. 13:16:34
+Getting Profile: User: EIRFE | From: xxxxxxx-70
+New user. Creating account...
+Balance requested for 'Newaccount231'. Returning 250. 14:03:14
+
+Request handler is running
+Balance requested for 'randomguy3513'. Returning 25142. 15:54:19
+Balance requested for 'randomguy3513'. Returning 25142. 15:54:20
+Balance requested for 'Wolf_Hunter77'. Returning 50102. 15:55:15
+Balance requested for 'Wolf_Hunter77'. Returning 50102. 15:55:15
+New user. Creating account...
+Balance requested for 'yumbee'. Returning 250. 16:13:40
+Balance requested for 'yumbee'. Returning 250. 16:13:41
+Getting Profile: User: EIRFIE | From: yumbee
+Balance requested for 'ethernetexplorer'. Returning 586. 17:06:22
+Balance requested for 'ethernetexplorer'. Returning 586. 17:06:24
+New user. Creating account...
+Balance requested for 'strawberryelm'. Returning 250. 17:08:40
+Balance requested for 'strawberryelm'. Returning 250. 17:08:42
+Balance requested for 'cookieclickerer33'. Returning 250. 17:42:14
+
+Request handler is running
+
+Request handler is running
+
+Request handler is running
+
+Request handler is running
+Balance requested for 'demonhunter247'. Returning 250. 20:30:52
+Balance requested for 'demonhunter247'. Returning 250. 20:30:54
+New user. Creating account...
+Balance requested for 'SealHackCoder'. Returning 250. 21:53:10
+Balance requested for 'SealHackCoder'. Returning 250. 21:53:11
+Getting Profile: User: KnightBot63 | From: SealHackCoder
+SEND Requester: SealHackCoder | Recipent: Knightbot63 | Amount: 1
+Balance requested for 'SealHackCoder'. Returning 249. 21:53:55
+New user. Creating account...
+Balance requested for 'yospidey'. Returning 250. 22:05:02
+Balance requested for 'yospidey'. Returning 250. 22:05:04
+Getting Profile: User: yospidey | From: yospidey
+New user. Creating account...
+Balance requested for '_FBItoons_'. Returning 250. 22:10:45
+Balance requested for '_FBItoons_'. Returning 250. 22:10:50
+Getting Profile: User: _FBItoons_ | From: _FBItoons_
+New user. Creating account...
+Balance requested for 'cainan8'. Returning 250. 22:34:48
+Balance requested for 'cainan8'. Returning 250. 22:34:50
+Getting Profile: User: Zachary281 | From: cainan8
+Balance requested for 'cainan8'. Returning 250. 22:35:24
+Balance requested for 'cainan8'. Returning 250. 22:35:25
+Balance requested for 'Popsesd'. Returning 400. 23:10:27
+Balance requested for 'Popsesd'. Returning 400. 23:10:28
+Balance requested for 'Popsesd'. Returning 400. 23:11:29
+Balance requested for 'Popsesd'. Returning 400. 23:11:30
+New user. Creating account...
+Balance requested for 'AyonI_'. Returning 250. 00:18:54
+Balance requested for 'AyonI_'. Returning 250. 00:18:55
+Getting Profile: User: knightbot63 | From: AyonI_
+SEND Requester: AyonI_ | Recipent: knightbot63 | Amount: 25
+Balance requested for 'AyonI_'. Returning 225. 00:20:00
+Getting Profile: User: Ayoni | From: AyonI_
+SEND Requester: AyonI_ | Recipent: fine | Amount: 21
+SEND Requester: AyonI_ | Recipent: Lepfeon_36 | Amount: 225
+Balance requested for 'AyonI_'. Returning 225. 00:21:52
+Balance requested for 'AyonI_'. Returning 225. 00:21:53
+Balance requested for 'xxxxxxx-70'. Returning 6000. 01:24:43
+Balance requested for 'xxxxxxx-70'. Returning 6000. 01:24:47
+New user. Creating account...
+Balance requested for '-Dr3am-'. Returning 250. 01:37:08
+Balance requested for '-Dr3am-'. Returning 250. 01:37:10
+SEND Requester: -Dr3am- | Recipent: Griffpatch | Amount: 250
+Balance requested for '-Dr3am-'. Returning 0. 01:37:30
+Getting Profile: User: Griffpatch | From: -Dr3am-
+Balance requested for '-Dr3am-'. Returning 0. 01:37:59
+Balance requested for '-Dr3am-'. Returning 0. 01:38:01
+Getting Profile: User: Griffpatch | From: -Dr3am-
+
+Request handler is running
+Balance requested for '--101--ProGrammer'. Returning 4500. 06:30:02
+
+Request handler is running
+Balance requested for 'EIRFIE'. Returning 2860. 14:02:13
+Balance requested for 'EIRFIE'. Returning 2860. 14:02:14
+New user. Creating account...
+Balance requested for '-OdysseyCentral-'. Returning 250. 15:02:18
+Balance requested for '-OdysseyCentral-'. Returning 250. 15:02:19
+Balance requested for 'xxxxxxx-70'. Returning 6000. 15:15:15
+Balance requested for 'xxxxxxx-70'. Returning 6000. 15:15:16
+Balance requested for 'xxxxxxx-70'. Returning 6000. 15:32:03
+Balance requested for 'xxxxxxx-70'. Returning 6000. 15:32:04
+Balance requested for 'ethernetexplorer'. Returning 586. 17:34:00
+Balance requested for 'ethernetexplorer'. Returning 586. 17:34:08
+Balance requested for 'ethernetexplorer'. Returning 586. 17:35:13
+Balance requested for 'ethernetexplorer'. Returning 586. 17:35:14
+Getting Profile: User: Knightbot63 | From: ethernetexplorer
+Getting Profile: User: anonexistantuser | From: ethernetexplorer
+Balance requested for 'QuAdGalaxy'. Returning 0. 18:08:38
+Balance requested for 'QuAdGalaxy'. Returning 0. 18:08:39
+Balance requested for 'LoIdesMio'. Returning 100. 18:21:47
+Balance requested for 'LoIdesMio'. Returning 100. 18:21:48
+Balance requested for 'LoIdesMio'. Returning 100. 18:22:16
+Balance requested for 'LoIdesMio'. Returning 100. 18:22:17
+New user. Creating account...
+Balance requested for 'robotkid828'. Returning 250. 18:56:53
+Balance requested for 'robotkid828'. Returning 250. 18:56:54
+Getting Profile: User: timmccool | From: robotkid828
+Getting Profile: User: knightbot63 | From: robotkid828
+New user. Creating account...
+Balance requested for 'Tisha_cat_meow'. Returning 250. 19:34:05
+Balance requested for 'Tisha_cat_meow'. Returning 250. 19:34:06
+Balance requested for 'SpeedBee411'. Returning 250. 19:57:24
+Balance requested for 'SpeedBee411'. Returning 250. 19:57:32
+Getting Profile: User: Knightbot63 | From: SpeedBee411
+Balance requested for 'SpeedBee411'. Returning 250. 19:58:15
+Balance requested for 'SpeedBee411'. Returning 250. 19:58:16
+Getting Profile: User: we09532 | From: SpeedBee411
+New user. Creating account...
+Balance requested for 'strawberryrainwing'. Returning 250. 22:23:02
+Balance requested for 'strawberryrainwing'. Returning 250. 22:23:03
+SEND Requester: strawberryrainwing | Recipent: Nothing | Amount: 3
+Getting Profile: User: Pooky2007 | From: strawberryrainwing
+SEND Requester: strawberryrainwing | Recipent: Aw | Amount: 6
+SEND Requester: strawberryrainwing | Recipent: Lilypad_Libra | Amount: 10
+Getting Profile: User: Lilypad_Libra | From: strawberryrainwing
+Balance requested for 'hippopotamus_star'. Returning 15. 23:16:25
+Balance requested for 'hippopotamus_star'. Returning 15. 23:16:27
+Getting Profile: User: airplane | From: hippopotamus_star
+SEND Requester: hippopotamus_star | Recipent: griffpatch | Amount: 15
+Balance requested for 'hippopotamus_star'. Returning 0. 23:17:21
+Getting Profile: User: griffpatch | From: hippopotamus_star
+Balance requested for 'BabyRumman'. Returning 1500. 00:41:36
+Balance requested for 'BabyRumman'. Returning 1500. 00:41:37
+Getting Profile: User: Bluestar784 | From: BabyRumman
+Balance requested for 'BabyRumman'. Returning 1500. 00:42:08
+Balance requested for 'BabyRumman'. Returning 1500. 00:42:09
+SEND Requester: BabyRumman | Recipent: Bluestar784 | Amount: 
+Balance requested for 'BabyRumman'. Returning 1500. 00:42:34
+Balance requested for 'EIRFIE'. Returning 2860. 01:35:58
+Balance requested for 'EIRFIE'. Returning 2860. 01:35:59
+Balance requested for 'BabyRumman'. Returning 1500. 01:47:40
+Balance requested for 'BabyRumman'. Returning 1500. 01:47:41
+Balance requested for 'littleasdfSponge'. Returning 250. 02:17:11
+Balance requested for 'littleasdfSponge'. Returning 250. 02:17:12
+Getting Profile: User: rezp | From: littleasdfSponge
+Getting Profile: User: me | From: littleasdfSponge
+Getting Profile: User: littleasdfSponge | From: littleasdfSponge
+SEND Requester: littleasdfSponge | Recipent: rezp | Amount: 128
+Balance requested for 'littleasdfSponge'. Returning 122. 02:18:19
+Balance requested for 'rezp'. Returning 628. 02:18:43
+Balance requested for 'rezp'. Returning 628. 02:18:46
+SEND Requester: rezp | Recipent: littleasdfSponge | Amount: 128
+Balance requested for 'rezp'. Returning 500. 02:18:57
+New user. Creating account...
+Balance requested for '_-0Sunshine0-_'. Returning 250. 02:43:02
+Balance requested for '_-0Sunshine0-_'. Returning 250. 02:43:03
+Getting Profile: User: _-0Sunshine0-_ | From: _-0Sunshine0-_
+Balance requested for '_-0Sunshine0-_'. Returning 250. 02:44:15
+Balance requested for '_-0Sunshine0-_'. Returning 250. 02:44:17
+Balance requested for 'edd-ie'. Returning 250. 04:58:52
+Balance requested for 'edd-ie'. Returning 250. 04:58:53
+Getting Profile: User: Knightbolt63 | From: edd-ie
+Getting Profile: User: Knightbot63 | From: edd-ie
+Balance requested for 'QuAdGalaxy'. Returning 0. 07:27:51
+Balance requested for 'QuAdGalaxy'. Returning 0. 07:27:52
+Getting Profile: User: Zk | From: QuAdGalaxy
+Balance requested for 'QuAdGalaxy'. Returning 0. 07:28:11
+Balance requested for 'QuAdGalaxy'. Returning 0. 07:28:12
+Getting Profile: User: KnightBot63 | From: QuAdGalaxy
+Balance requested for 'QuAdGalaxy'. Returning 0. 07:28:36
+Balance requested for 'QuAdGalaxy'. Returning 0. 07:28:36
+Getting Profile: User: EIRFIE | From: QuAdGalaxy
+
+Request handler is running
+Balance requested for 'juulskicool'. Returning 250. 15:01:08
+Balance requested for 'juulskicool'. Returning 250. 15:01:09
+SEND Requester: juulskicool | Recipent: Knightbot63 | Amount: 30
+Balance requested for 'juulskicool'. Returning 220. 15:01:35
+Balance requested for 'juulskicool'. Returning 220. 15:01:41
+Balance requested for 'juulskicool'. Returning 220. 15:01:42
+New user. Creating account...
+Balance requested for '-Melty-'. Returning 250. 15:36:03
+Balance requested for '-Melty-'. Returning 250. 15:36:04
+Getting Profile: User: knightbot63 | From: -Melty-
+Balance requested for '-Melty-'. Returning 250. 15:36:34
+Balance requested for '-Melty-'. Returning 250. 15:36:35
+Balance requested for '-Melty-'. Returning 250. 15:36:58
+Balance requested for '-Melty-'. Returning 250. 15:37:00
+SEND Requester: -Melty- | Recipent: 0 | Amount: 0
+New user. Creating account...
+Balance requested for 'emoji_dreff'. Returning 250. 15:46:29
+Balance requested for 'emoji_dreff'. Returning 250. 15:46:31
+New user. Creating account...
+Balance requested for 'ThE-_-pEnGuIn'. Returning 250. 16:43:32
+Balance requested for 'ThE-_-pEnGuIn'. Returning 250. 16:43:34
+Getting Profile: User: Froggy_1177 | From: ThE-_-pEnGuIn
+Balance requested for 'Knightbot63'. Returning 532. 17:12:33
+Balance requested for 'Knightbot63'. Returning 532. 17:12:34
+A CatBits Member is banning hippopotimus_star! Check the banned.txt log.
+Getting Profile: User: emoji_dreff | From: Knightbot63
+Balance requested for 'hippopotamus_star'. Returning 0. 17:14:36
+Balance requested for 'hippopotamus_star'. Returning 0. 17:14:37
+Getting Profile: User: queen | From: hippopotamus_star
+Getting Profile: User: hippopotamus_star | From: Knightbot63
+Balance requested for 'Knightbot63'. Returning 532. 17:18:46
+Balance requested for 'Knightbot63'. Returning 532. 17:18:48
+A CatBits Member is banning capetigers13! Check the banned.txt log.
+Balance requested for 'hippopotamus_star'. Returning 0. 17:21:16
+Balance requested for 'hippopotamus_star'. Returning 0. 17:21:17
+Balance requested for 'RandomCocconut'. Returning 250. 17:21:26
+Balance requested for 'hippopotamus_star'. Returning 0. 17:21:35
+Balance requested for 'hippopotamus_star'. Returning 0. 17:21:37
+Balance requested for 'Knightbot63'. Returning 532. 17:23:00
+Balance requested for 'Knightbot63'. Returning 532. 17:23:03
+Balance requested for 'hippopotamus_star'. Returning 0. 17:24:41
+Balance requested for 'Knightbot63'. Returning 532. 17:24:42
+Balance requested for 'hippopotamus_star'. Returning 0. 17:24:48
+Balance requested for 'Knightbot63'. Returning 532. 17:24:49
+Balance requested for 'hippopotamus_star'. Returning 0. 17:25:03
+Balance requested for 'hippopotamus_star'. Returning 0. 17:25:11
+Balance requested for 'Knightbot63'. Returning 532. 17:25:12
+Balance requested for 'hippopotamus_star'. Returning 0. 17:26:10
+Balance requested for 'hippopotamus_star'. Returning 0. 17:26:11
+Balance requested for 'hippopotamus_star'. Returning 0. 17:26:23
+
+Request handler is running
+Balance requested for 'hippopotamus_star'. Returning 0. 17:27:33
+Balance requested for 'hippopotamus_star'. Returning 0. 17:27:35
+
+Request handler is running
+Balance requested for 'hippopotamus_star'. Returning 0. 17:29:19
+Balance requested for 'hippopotamus_star'. Returning 0. 17:29:21
+Balance requested for 'hippopotamus_star'. Returning 0. 17:29:33
+Balance requested for 'hippopotamus_star'. Returning 0. 17:29:34
+Balance requested for 'ScratchyNinja_'. Returning 250. 17:35:23
+Balance requested for 'ScratchyNinja_'. Returning 250. 17:35:24
+Balance requested for 'PowerUpProduction123'. Returning 250. 18:06:41
+Balance requested for 'PowerUpProduction123'. Returning 250. 18:06:44
+Getting Profile: User: griffpatch | From: PowerUpProduction123
+Balance requested for 'PowerUpProduction123'. Returning 250. 18:08:01
+Balance requested for 'PowerUpProduction123'. Returning 250. 18:08:02
+Balance requested for 'xxxxxxx-70'. Returning 6000. 18:30:35
+Balance requested for 'xxxxxxx-70'. Returning 6000. 18:30:38
+New user. Creating account...
+Balance requested for 'Radien_shogxn'. Returning 250. 18:45:37
+Balance requested for 'Radien_shogxn'. Returning 250. 18:45:39
+New user. Creating account...
+Balance requested for 'HardComet177081'. Returning 250. 19:53:09
+Balance requested for 'HardComet177081'. Returning 250. 19:53:11
+Getting Profile: User: Yippymishy | From: HardComet177081
+Balance requested for 'HardComet177081'. Returning 250. 19:53:41
+Balance requested for 'HardComet177081'. Returning 250. 19:53:53
+Balance requested for 'HardComet177081'. Returning 250. 19:54:03
+Getting Profile: User: yippymishy | From: HardComet177081
+New user. Creating account...
+Balance requested for 'Georgia745ST'. Returning 250. 22:58:15
+Balance requested for 'EIRFIE'. Returning 2860. 23:25:25
+Balance requested for 'EIRFIE'. Returning 2860. 23:25:27
+Balance requested for 'EIRFIE'. Returning 2860. 23:25:53
+Balance requested for 'EIRFIE'. Returning 2860. 23:25:54
+New user. Creating account...
+Balance requested for 'JifilMcBobbens'. Returning 250. 00:01:16
+Balance requested for 'JifilMcBobbens'. Returning 250. 00:01:18
+Getting Profile: User: ScratchyNinja_ | From: JifilMcBobbens
+SEND Requester: JifilMcBobbens | Recipent: -melty- | Amount: 250
+Getting Profile: User: -melty- | From: JifilMcBobbens
+SEND Requester: JifilMcBobbens | Recipent: ScratchyNinja_ | Amount: 250
+New user. Creating account...
+Balance requested for ''. Returning 250. 00:04:22
+Balance requested for ''. Returning 250. 00:04:31
+Getting Profile: User: ScratchyNinja_ | From: JifilMcBobbens
+Balance requested for 'JifilMcBobbens'. Returning 0. 00:06:02
+Balance requested for 'JifilMcBobbens'. Returning 0. 00:06:04
+SEND Requester: JifilMcBobbens | Recipent: Knightbot63 | Amount: 
+Balance requested for ''. Returning 250. 00:06:40
+
+Request handler is running
+Balance requested for 'ositosail_ban'. Returning 250. 12:07:24
+Balance requested for 'ositosail_ban'. Returning 250. 12:07:25
+Getting Profile: User: Pep | From: ositosail_ban
+Balance requested for 'ositosail_ban'. Returning 250. 12:08:15
+Balance requested for 'ositosail_ban'. Returning 250. 12:08:16
+Getting Profile: User: Yippymishy | From: ositosail_ban
+Balance requested for 'ositosail_ban'. Returning 250. 12:08:57
+Balance requested for 'ositosail_ban'. Returning 250. 12:08:58
+Getting Profile: User: yippymishy | From: ositosail_ban
+Balance requested for 'ositosail_ban'. Returning 250. 12:12:53
+Balance requested for 'ositosail_ban'. Returning 250. 12:12:54
+Getting Profile: User: WhaleTailFive | From: ositosail_ban
+Balance requested for 'ositosail_ban'. Returning 250. 12:13:27
+Balance requested for 'ositosail_ban'. Returning 250. 12:13:29
+Getting Profile: User: Knightbot63 | From: ositosail_ban
+New user. Creating account...
+Balance requested for '123makingagameteam'. Returning 250. 13:46:18
+Balance requested for '123makingagameteam'. Returning 250. 13:46:19
+SEND Requester: 123makingagameteam | Recipent: sus' | Amount: 5
+Getting Profile: User: sus | From: 123makingagameteam
+New user. Creating account...
+Balance requested for 'AmazingWill1'. Returning 250. 15:06:21
+Balance requested for 'AmazingWill1'. Returning 250. 15:06:22
+Getting Profile: User: griffpatch | From: AmazingWill1
+Balance requested for 'AmazingWill1'. Returning 250. 15:06:50
+Balance requested for 'AmazingWill1'. Returning 250. 15:06:51
+Balance requested for 'Bluestar784'. Returning 769. 18:12:36
+Balance requested for 'Bluestar784'. Returning 769. 18:12:37
+Getting Profile: User: babyrumman | From: Bluestar784
+Balance requested for 'Bluestar784'. Returning 769. 18:12:53
+Balance requested for 'Bluestar784'. Returning 769. 18:12:54
+Getting Profile: User: BabyRumman | From: Bluestar784
+Balance requested for 'BabyRumman'. Returning 1500. 18:13:18
+Balance requested for 'BabyRumman'. Returning 1500. 18:13:18
+Balance requested for 'Rayquaza1_00'. Returning 150250. 22:40:16
+Balance requested for 'Rayquaza1_00'. Returning 150250. 22:40:17
+Getting Profile: User: Knightbot63 | From: Rayquaza1_00
+New user. Creating account...
+Balance requested for 'CandleContent'. Returning 250. 23:15:28
+Balance requested for 'CandleContent'. Returning 250. 23:15:29
+New user. Creating account...
+Balance requested for 'omotashi'. Returning 250. 01:08:12
+Balance requested for 'omotashi'. Returning 250. 01:08:13
+Getting Profile: User: omotashi | From: omotashi
+SEND Requester: omotashi | Recipent: omotahsi | Amount: 
+SEND Requester: omotashi | Recipent: yay! | Amount: 200
+
+Request handler is running
+New user. Creating account...
+Balance requested for 'Khymarah'. Returning 250. 07:03:53
+Balance requested for 'Khymarah'. Returning 250. 07:03:57
+Balance requested for 'Khymarah'. Returning 250. 07:03:57
+Balance requested for 'juulskicool'. Returning 220. 17:51:32
+New user. Creating account...
+Balance requested for 'CyberOverload'. Returning 250. 23:39:20
+Balance requested for 'CyberOverload'. Returning 250. 23:39:21
+New user. Creating account...
+Balance requested for 'mobfighteryt'. Returning 250. 00:11:32
+Balance requested for 'mobfighteryt'. Returning 250. 00:11:33
+Balance requested for 'Sus_patch'. Returning 250. 02:05:17
+Balance requested for 'Sus_patch'. Returning 250. 02:05:18
+Getting Profile: User: Knightbot63 | From: Sus_patch
+Getting Profile: User: pooky2007 | From: Sus_patch
+Getting Profile: User: King_cat12345 | From: Sus_patch
+Getting Profile: User: griffpatch | From: Sus_patch
+Getting Profile: User: king_cat12345 | From: Sus_patch
+Getting Profile: User: 12345 | From: Sus_patch
+New user. Creating account...
+Balance requested for 'RaskAttack'. Returning 250. 03:43:25
+Balance requested for 'RaskAttack'. Returning 250. 03:43:27
+Getting Profile: User: Knightbot63 | From: RaskAttack
+Balance requested for 'RaskAttack'. Returning 250. 03:47:44
+Balance requested for 'RaskAttack'. Returning 250. 03:47:44
+Balance requested for 'RaskAttack'. Returning 250. 03:48:06
+Balance requested for 'RaskAttack'. Returning 250. 03:48:06
+SEND Requester: RaskAttack | Recipent: KnightBot63 | Amount: 1
+Balance requested for 'RaskAttack'. Returning 250. 03:48:41
+Balance requested for 'RaskAttack'. Returning 250. 03:48:43
+
+Request handler is running
+Balance requested for 'TheGl1tchedDrag0n'. Returning 0. 06:05:07
+Balance requested for 'TheGl1tchedDrag0n'. Returning 0. 06:05:08
+Getting Profile: User:  -TheKingCode- | From: TheGl1tchedDrag0n
+Balance requested for 'TheGl1tchedDrag0n'. Returning 0. 06:05:42
+Balance requested for 'TheGl1tchedDrag0n'. Returning 0. 06:05:42
+Getting Profile: User: WhaleTailFive | From: TheGl1tchedDrag0n
+Balance requested for 'TheGl1tchedDrag0n'. Returning 0. 06:06:05
+Balance requested for 'TheGl1tchedDrag0n'. Returning 0. 06:06:05
+New user. Creating account...
+Balance requested for 'NightmareGaze'. Returning 250. 07:33:31
+Balance requested for 'NightmareGaze'. Returning 250. 07:33:32
+Getting Profile: User: This is the dumbest thing I have seen today on Scratch | From: NightmareGaze
+New user. Creating account...
+Balance requested for 'crashbandicootsthe1'. Returning 250. 09:16:58
+Balance requested for 'crashbandicootsthe1'. Returning 250. 09:16:59
+Getting Profile: User: Knightbot63 | From: crashbandicootsthe1
+Getting Profile: User: -TheKingCode- | From: crashbandicootsthe1
+Getting Profile: User: -TheKingCode- | From: crashbandicootsthe1
+New user. Creating account...
+Balance requested for 'jonathanwong_preface'. Returning 250. 09:49:24
+Balance requested for 'jonathanwong_preface'. Returning 250. 09:49:26
+Getting Profile: User: jonathanwong_preface | From: jonathanwong_preface
+Balance requested for 'jonathanwong_preface'. Returning 250. 09:50:12
+Balance requested for 'jonathanwong_preface'. Returning 250. 09:50:13
+Getting Profile: User: griffpatcj | From: jonathanwong_preface
+Balance requested for 'jonathanwong_preface'. Returning 250. 09:50:39
+Balance requested for 'jonathanwong_preface'. Returning 250. 09:50:40
+Getting Profile: User: griffpatch | From: jonathanwong_preface
+New user. Creating account...
+Balance requested for 'Tigerlionwhale'. Returning 250. 10:14:15
+Balance requested for 'Tigerlionwhale'. Returning 250. 10:14:16
+Balance requested for 'Tigerlionwhale'. Returning 250. 10:14:25
+Balance requested for 'Tigerlionwhale'. Returning 250. 10:14:25
+SEND Requester: Tigerlionwhale | Recipent: Knightbot63 | Amount: 250
+Balance requested for ''. Returning 250. 10:15:07
+Balance requested for 'Tigerlionwhale'. Returning 0. 10:15:11
+Balance requested for 'Tigerlionwhale'. Returning 0. 10:15:12
+Getting Profile: User: Knightbot63 | From: Tigerlionwhale
+Balance requested for 'Tigerlionwhale'. Returning 0. 10:15:53
+Balance requested for 'Tigerlionwhale'. Returning 0. 10:15:54
+Balance requested for 'Tigerlionwhale'. Returning 0. 10:16:20
+Balance requested for 'Tigerlionwhale'. Returning 0. 10:16:21
+Balance requested for 'Mic_hal16'. Returning 1500. 16:03:38
+Balance requested for 'Mic_hal16'. Returning 1500. 16:03:39
+Balance requested for 'juulskicool'. Returning 220. 16:48:17
+Balance requested for 'juulskicool'. Returning 220. 16:48:18
+Balance requested for 'EngineerRunner'. Returning 250. 20:09:01
+Balance requested for 'EngineerRunner'. Returning 250. 20:09:02
+Balance requested for 'Teddy_pro_coder'. Returning 250. 20:17:46
+Balance requested for 'Teddy_pro_coder'. Returning 250. 20:17:46
+Getting Profile: User: Knightbot63 | From: Teddy_pro_coder
+Getting Profile: User: hippopotamus_star | From: Teddy_pro_coder
+SEND Requester: Teddy_pro_coder | Recipent: Hippopotamus_star | Amount: 1
+New user. Creating account...
+Balance requested for 'Koog_bot'. Returning 250. 20:38:49
+Balance requested for 'Koog_bot'. Returning 250. 20:38:50
+Balance requested for 'hippopotamus_star'. Returning 0. 21:21:30
+Balance requested for 'hippopotamus_star'. Returning 0. 21:21:31
+New user. Creating account...
+Balance requested for 'PPPDUD'. Returning 250. 21:44:30
+Balance requested for 'PPPDUD'. Returning 250. 21:44:31
+Getting Profile: User: Griffpatch | From: PPPDUD
+Balance requested for 'PPPDUD'. Returning 250. 21:46:36
+Balance requested for 'PPPDUD'. Returning 250. 21:46:37
+SEND Requester: PPPDUD | Recipent: SpaceCatStudios | Amount: 250
+Balance requested for ''. Returning 250. 21:47:01
+SEND Requester: PPPDUD | Recipent: SpaceCatStudios | Amount: 250
+Balance requested for 'PPPDUD'. Returning 0. 21:47:21
+Balance requested for 'PPPDUD'. Returning 0. 21:47:21
+New user. Creating account...
+Balance requested for 'electrorabbit'. Returning 250. 22:39:51
+Balance requested for 'electrorabbit'. Returning 250. 22:39:51
+Getting Profile: User: Knightbot63 | From: electrorabbit
+Balance requested for 'CandleContent'. Returning 250. 22:47:48
+Balance requested for 'CandleContent'. Returning 250. 22:47:49
+Balance requested for 'CandleContent'. Returning 250. 22:50:19
+Balance requested for 'CandleContent'. Returning 250. 22:50:20
+Getting Profile: User: griffpatch | From: CandleContent
+Getting Profile: User: Knightbot63 | From: CandleContent

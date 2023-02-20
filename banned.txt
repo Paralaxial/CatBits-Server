@@ -1,0 +1,3 @@
+user;Ban reason
+hippopotamus_star;Requested to be Banned.
+capetigers13;Ban evading. Please check @hippopotamus_star for more info
