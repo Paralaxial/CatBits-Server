@@ -1,0 +1,10 @@
+__pycache__/
+venv/
+.breakpoints
+.replit
+banned.txt
+log.txt
+poetry.lock
+pyproject.toml
+replit.nix
+updatelog.txt

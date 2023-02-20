@@ -583,3 +583,8 @@ Balance requested for 'ArrowCoding'. Returning 250. 23:42:39
 Request handler is running
 
 Request handler is running
+New user. Creating account...
+Balance requested for 'waitwhat2288'. Returning 250. 23:53:18
+Balance requested for 'waitwhat2288'. Returning 250. 23:53:19
+Balance requested for 'waitwhat2288'. Returning 250. 23:54:28
+Balance requested for 'waitwhat2288'. Returning 250. 23:54:28
