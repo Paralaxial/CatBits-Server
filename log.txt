@@ -588,3 +588,4 @@ Balance requested for 'waitwhat2288'. Returning 250. 23:53:18
 Balance requested for 'waitwhat2288'. Returning 250. 23:53:19
 Balance requested for 'waitwhat2288'. Returning 250. 23:54:28
 Balance requested for 'waitwhat2288'. Returning 250. 23:54:28
+Getting Profile: User: Person | From: waitwhat2288
